@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "first git ",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengyanfen/hello.git"
+  },
+  "author": "cyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengyanfen/hello/issues"
+  },
+  "homepage": "https://github.com/chengyanfen/hello#readme"
+}
